@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ts\\signalRProject\\signalR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEBB5C1-ACC9-4891-BC41-8B7354017D61}|signalR\\signalR.csproj|d:\\ts\\signalrproject\\signalr\\signalr\\src\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{BBEBB5C1-ACC9-4891-BC41-8B7354017D61}|signalR\\signalR.csproj|solutionrelative:signalr\\src\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEBB5C1-ACC9-4891-BC41-8B7354017D61}|signalR\\signalR.csproj|d:\\ts\\signalrproject\\signalr\\signalr\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBEBB5C1-ACC9-4891-BC41-8B7354017D61}|signalR\\signalR.csproj|solutionrelative:signalr\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEBB5C1-ACC9-4891-BC41-8B7354017D61}|signalR\\signalR.csproj|d:\\ts\\signalrproject\\signalr\\signalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEBB5C1-ACC9-4891-BC41-8B7354017D61}|signalR\\signalR.csproj|solutionrelative:signalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEBB5C1-ACC9-4891-BC41-8B7354017D61}|signalR\\signalR.csproj|d:\\ts\\signalrproject\\signalr\\signalr\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBEBB5C1-ACC9-4891-BC41-8B7354017D61}|signalR\\signalR.csproj|solutionrelative:signalr\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEBB5C1-ACC9-4891-BC41-8B7354017D61}|signalR\\signalR.csproj|d:\\ts\\signalrproject\\signalr\\signalr\\controllers\\gridcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEBB5C1-ACC9-4891-BC41-8B7354017D61}|signalR\\signalR.csproj|solutionrelative:signalr\\controllers\\gridcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEBB5C1-ACC9-4891-BC41-8B7354017D61}|signalR\\signalR.csproj|d:\\ts\\signalrproject\\signalr\\signalr\\models\\ordersdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEBB5C1-ACC9-4891-BC41-8B7354017D61}|signalR\\signalR.csproj|solutionrelative:signalr\\models\\ordersdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEBB5C1-ACC9-4891-BC41-8B7354017D61}|signalR\\signalR.csproj|d:\\ts\\signalrproject\\signalr\\signalr\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBEBB5C1-ACC9-4891-BC41-8B7354017D61}|signalR\\signalR.csproj|solutionrelative:signalr\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEBB5C1-ACC9-4891-BC41-8B7354017D61}|signalR\\signalR.csproj|d:\\ts\\signalrproject\\signalr\\signalr\\webpack.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BBEBB5C1-ACC9-4891-BC41-8B7354017D61}|signalR\\signalR.csproj|solutionrelative:signalr\\webpack.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\ts\\signalRProject\\signalR\\signalR\\package.json",
+              "RelativeDocumentMoniker": "signalR\\package.json",
+              "ToolTip": "D:\\ts\\signalRProject\\signalR\\signalR\\package.json",
+              "RelativeToolTip": "signalR\\package.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T07:08:01.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.ts",
+              "DocumentMoniker": "D:\\ts\\signalRProject\\signalR\\signalR\\src\\index.ts",
+              "RelativeDocumentMoniker": "signalR\\src\\index.ts",
+              "ToolTip": "D:\\ts\\signalRProject\\signalR\\signalR\\src\\index.ts",
+              "RelativeToolTip": "signalR\\src\\index.ts",
+              "ViewState": "AQIAACQAAAAAAAAAAAAwwCkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-25T09:21:57.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\ts\\signalRProject\\signalR\\signalR\\src\\index.html",
+              "RelativeDocumentMoniker": "signalR\\src\\index.html",
+              "ToolTip": "D:\\ts\\signalRProject\\signalR\\signalR\\src\\index.html",
+              "RelativeToolTip": "signalR\\src\\index.html",
+              "ViewState": "AQIAABIAAAAAAAAAAAAcwAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-25T09:21:31.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersDetails.cs",
+              "DocumentMoniker": "D:\\ts\\signalRProject\\signalR\\signalR\\Models\\OrdersDetails.cs",
+              "RelativeDocumentMoniker": "signalR\\Models\\OrdersDetails.cs",
+              "ToolTip": "D:\\ts\\signalRProject\\signalR\\signalR\\Models\\OrdersDetails.cs",
+              "RelativeToolTip": "signalR\\Models\\OrdersDetails.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAADgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:14:13.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ts\\signalRProject\\signalR\\signalR\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "signalR\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ts\\signalRProject\\signalR\\signalR\\Properties\\launchSettings.json",
+              "RelativeToolTip": "signalR\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T18:32:42.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ts\\signalRProject\\signalR\\signalR\\Program.cs",
+              "RelativeDocumentMoniker": "signalR\\Program.cs",
+              "ToolTip": "D:\\ts\\signalRProject\\signalR\\signalR\\Program.cs",
+              "RelativeToolTip": "signalR\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:30:19.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "webpack.config.js",
+              "DocumentMoniker": "D:\\ts\\signalRProject\\signalR\\signalR\\webpack.config.js",
+              "RelativeDocumentMoniker": "signalR\\webpack.config.js",
+              "ToolTip": "D:\\ts\\signalRProject\\signalR\\signalR\\webpack.config.js",
+              "RelativeToolTip": "signalR\\webpack.config.js",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvyQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-24T17:57:13.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GridController.cs",
+              "DocumentMoniker": "D:\\ts\\signalRProject\\signalR\\signalR\\Controllers\\GridController.cs",
+              "RelativeDocumentMoniker": "signalR\\Controllers\\GridController.cs",
+              "ToolTip": "D:\\ts\\signalRProject\\signalR\\signalR\\Controllers\\GridController.cs",
+              "RelativeToolTip": "signalR\\Controllers\\GridController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:40:25.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

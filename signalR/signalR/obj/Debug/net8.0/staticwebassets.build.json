@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "iJ0WfTe02akSf+o1EpfVviwJ6DpB172a3moEwHiCweE=",
+  "Source": "signalR",
+  "BasePath": "_content/signalR",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "signalR\\wwwroot",
+      "Source": "signalR",
+      "ContentRoot": "D:\\ts\\signalRProject\\signalR\\signalR\\wwwroot\\",
+      "BasePath": "_content/signalR",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ts\\signalRProject\\signalR\\signalR\\wwwroot\\index.html",
+      "SourceId": "signalR",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ts\\signalRProject\\signalR\\signalR\\wwwroot\\",
+      "BasePath": "_content/signalR",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\ts\\signalRProject\\signalR\\signalR\\wwwroot\\main.d09e0901890e3d32504a.js",
+      "SourceId": "signalR",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ts\\signalRProject\\signalR\\signalR\\wwwroot\\",
+      "BasePath": "_content/signalR",
+      "RelativePath": "main.d09e0901890e3d32504a.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.d09e0901890e3d32504a.js"
+    }
+  ]
+}

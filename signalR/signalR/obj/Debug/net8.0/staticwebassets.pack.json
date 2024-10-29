@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ts\\signalRProject\\signalR\\signalR\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\ts\\signalRProject\\signalR\\signalR\\wwwroot\\main.d09e0901890e3d32504a.js",
+      "PackagePath": "staticwebassets\\main.d09e0901890e3d32504a.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.signalR.props",
+      "PackagePath": "build\\signalR.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.signalR.props",
+      "PackagePath": "buildMultiTargeting\\signalR.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.signalR.props",
+      "PackagePath": "buildTransitive\\signalR.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.signalR.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
