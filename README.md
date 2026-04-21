@@ -1,50 +1,51 @@
-# Binding data with SignalR in ej2 typescript grid
+# Binding Data with SignalR in EJ2 TypeScript Grid
 
-This repository demonstrates the integration of SignalR with the Syncfusion EJ2 TypeScript Grid, enabling real-time data binding. This feature is especially useful for applications that need live updates and multi-client synchronization.
+## Repository Description
+This repository demonstrates real-time data binding integration of Microsoft SignalR with Syncfusion EJ2 TypeScript Grid component, enabling seamless multi-client data synchronization with live updates in ASP.NET Core applications.
+
+## Overview
+SignalR integration with EJ2 Grid efficiently enables real-time bidirectional communication between server and connected clients, allowing instant data updates across all users without page refreshes.
 
 ## Features
-
-**Real-Time Data Synchronization**:  Automatically updates the grid data across all connected clients using SignalR.
-
-**Remote Data Integration:** Bind data to the Syncfusion EJ2 Grid using the DataManager adaptor.
-
-**CRUD Operations:** Implement Create, Read, Update, and Delete operations.
+- SignalR Integration: real-time server-to-client communication
+- Live Data Binding: automatic grid updates from server
+- Multi-Client Synchronization: synchronized data across all connected clients
+- CRUD Operations: create, read, update, and delete operations
+- Server-Side Processing: filtering, sorting, and pagination
+- TypeScript Support: fully typed components for better development
 
 ## Prerequisites
+- .NET 8.0 or higher
+- Node.js and npm installed
+- Visual Studio or VS Code
+- ASP.NET Core SDK
+- TypeScript knowledge
+- SignalR client library understanding
 
-Before you begin, ensure you have met the following requirements:
+## Installation
+1. Clone repository
+2. Navigate to project directory
+3. Run `npm install` for frontend dependencies
+4. Run `dotnet restore` for backend packages
+5. Execute `dotnet build`
+6. Run `dotnet run`
 
-* Node.js and npm installed
+## Usage
+To implement real-time grid binding with SignalR:
+1. Configure SignalR hub endpoint in Program.cs
+2. Create and register SignalR hub (ChatHub)
+3. Connect grid to SignalR hub on client-side
+4. Define message handlers for grid refresh
+5. Implement CRUD endpoints in GridController
+6. Invoke SignalR notifications after CRUD operations
 
-* Basic knowledge of TypeScript and web development
+## Configuration
+- Hub Endpoint: Map SignalR hub in Program.cs (e.g., `app.MapHub<ChatHub>("/chatHub")`)
+- Hub URL: Configure client connection URL in TypeScript (e.g., `https://localhost:7212/ChatHub`)
+- Connection Protocol: WebSocket (default SignalR transport)
+- Data Format: JSON serialization for messages
+- CRUD URLs: Configure DataManager URLs (insertUrl, updateUrl, removeUrl)
 
-## Getting Started
 
-**1. Clone the Repository:**
 
-Use `git clone` to fetch the repository from GitHub.
 
-```bash
-https://github.com/SyncfusionExamples/Binding-data-with-SignalR-in-ej2-typescript-grid.git
-```
-
-**2. Open and Build the Project:**
-
-* Open the project in Visual Studio.
-* Build the project to restore dependencies and compile it.
-* Run the project
-
-**3. Explore the Code:**
-
-* Navigate to TypeScript files (typically in src or scripts).
-* Debug and interact with the code as needed.
-
-![Adaptors](./signalR/image/signalRImage.gif)
-
-## Resources
-
-You can also refer the below resources to know more details about Syncfusion Typescript Grid components.
-
-* [Demo](https://ej2.syncfusion.com/demos/#/bootstrap/grid/over-view)
-* [Documentation](https://ej2.syncfusion.com/documentation/grid/getting-started)
-* [UrlAdaptor with Syncfusion DataManager](https://ej2.syncfusion.com/documentation/grid/connecting-to-adaptors/url-adaptor)
